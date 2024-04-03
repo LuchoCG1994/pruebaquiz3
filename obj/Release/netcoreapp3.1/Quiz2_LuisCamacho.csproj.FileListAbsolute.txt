@@ -1,0 +1,13 @@
+H:\50292 - PROGRAMACION ORIENTADA A OBJETIVOS II\Proyectos\Quiz2_LuisCamacho\Quiz2_LuisCamacho\bin\Release\netcoreapp3.1\Quiz2_LuisCamacho.exe
+H:\50292 - PROGRAMACION ORIENTADA A OBJETIVOS II\Proyectos\Quiz2_LuisCamacho\Quiz2_LuisCamacho\bin\Release\netcoreapp3.1\Quiz2_LuisCamacho.deps.json
+H:\50292 - PROGRAMACION ORIENTADA A OBJETIVOS II\Proyectos\Quiz2_LuisCamacho\Quiz2_LuisCamacho\bin\Release\netcoreapp3.1\Quiz2_LuisCamacho.runtimeconfig.json
+H:\50292 - PROGRAMACION ORIENTADA A OBJETIVOS II\Proyectos\Quiz2_LuisCamacho\Quiz2_LuisCamacho\bin\Release\netcoreapp3.1\Quiz2_LuisCamacho.runtimeconfig.dev.json
+H:\50292 - PROGRAMACION ORIENTADA A OBJETIVOS II\Proyectos\Quiz2_LuisCamacho\Quiz2_LuisCamacho\bin\Release\netcoreapp3.1\Quiz2_LuisCamacho.dll
+H:\50292 - PROGRAMACION ORIENTADA A OBJETIVOS II\Proyectos\Quiz2_LuisCamacho\Quiz2_LuisCamacho\bin\Release\netcoreapp3.1\Quiz2_LuisCamacho.pdb
+H:\50292 - PROGRAMACION ORIENTADA A OBJETIVOS II\Proyectos\Quiz2_LuisCamacho\Quiz2_LuisCamacho\obj\Release\netcoreapp3.1\Quiz2_LuisCamacho.GeneratedMSBuildEditorConfig.editorconfig
+H:\50292 - PROGRAMACION ORIENTADA A OBJETIVOS II\Proyectos\Quiz2_LuisCamacho\Quiz2_LuisCamacho\obj\Release\netcoreapp3.1\Quiz2_LuisCamacho.AssemblyInfoInputs.cache
+H:\50292 - PROGRAMACION ORIENTADA A OBJETIVOS II\Proyectos\Quiz2_LuisCamacho\Quiz2_LuisCamacho\obj\Release\netcoreapp3.1\Quiz2_LuisCamacho.AssemblyInfo.cs
+H:\50292 - PROGRAMACION ORIENTADA A OBJETIVOS II\Proyectos\Quiz2_LuisCamacho\Quiz2_LuisCamacho\obj\Release\netcoreapp3.1\Quiz2_LuisCamacho.csproj.CoreCompileInputs.cache
+H:\50292 - PROGRAMACION ORIENTADA A OBJETIVOS II\Proyectos\Quiz2_LuisCamacho\Quiz2_LuisCamacho\obj\Release\netcoreapp3.1\Quiz2_LuisCamacho.dll
+H:\50292 - PROGRAMACION ORIENTADA A OBJETIVOS II\Proyectos\Quiz2_LuisCamacho\Quiz2_LuisCamacho\obj\Release\netcoreapp3.1\Quiz2_LuisCamacho.pdb
+H:\50292 - PROGRAMACION ORIENTADA A OBJETIVOS II\Proyectos\Quiz2_LuisCamacho\Quiz2_LuisCamacho\obj\Release\netcoreapp3.1\Quiz2_LuisCamacho.genruntimeconfig.cache
